@@ -15,8 +15,12 @@ Comparing **Q-Learning**, **DQN**, and **PPO** on OpenAI Gym's LunarLander-v3 en
 **Winner: PPO** - Best performance with fastest training
 
 [Full Comparison Video](https://youtu.be/7o4nDNbENxs)
+
 [website](https://astorius761.github.io/Astorius)
-[detailed report about the models](file:///C:/Users/LENOVO/Downloads/Autonomous_Lunar_Lander_RL/documents/RIENF_LEARN_ROCKET_PFE_L3.pdf)
+
+[detailed report about the models]
+(file:///C:/Users/LENOVO/Downloads/Autonomous_Lunar_Lander_RL/documents/RIENF_LEARN_ROCKET_PFE_L3.pdf)
+
 ---
 
 ## Algorithm Demos
